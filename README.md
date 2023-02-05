@@ -1,16 +1,6 @@
-# fluttercrashcourse
+# Tourism&CO
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was made to learn the implementation of the API. 
+I was able to successfully fetch data from the API.I tried to create a beautiful design.
+I have Implemented Navigation,Linear Progress bar and Pull to Refresh feature.
+This project is still under development and addition of splash page,login page,sign up page and connecting it with Backend.
